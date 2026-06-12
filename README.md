@@ -5,3 +5,5 @@ cd assignment1
 pip install -r requirements.txt
 
 python assignment1.py
+
+streamlit run app.py
